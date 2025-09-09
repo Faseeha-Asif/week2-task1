@@ -62,5 +62,4 @@ Build and evaluate machine learning models to predict customer churn using IBMâ€
 
 ---
 
-## ğŸ“ Folder Structure
 
